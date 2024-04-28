@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{7BA25D8E-6C42-4499-BED6-A71D5306E6EA}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WDC.Customers.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WDC.Customer.Service.app.Service.app.Service/ModuleServiceDependencies.cs">
+    <Files>
+      <File FileName="WDC.Customer.Service.app.Service.app.Service/ModuleServiceDependencies.cs" Line="11" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

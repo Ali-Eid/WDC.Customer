@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WDC.Customer.Infrastructure\WDC.Customers.Infrastructure.csproj" />
+    <ProjectReference Include="..\WDC.Customer.Data\WDC.Customers.Data.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="CustomerServices\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="CustomerServices\" />
+  </ItemGroup>
+</Project>

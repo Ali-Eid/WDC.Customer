@@ -1,0 +1,17 @@
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Infrastructure/bin/Debug/net8.0/WDC.Customers.Infrastructure.deps.json
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Infrastructure/bin/Debug/net8.0/WDC.Customers.Infrastructure.runtimeconfig.json
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Infrastructure/bin/Debug/net8.0/WDC.Customers.Infrastructure.dll
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Infrastructure/bin/Debug/net8.0/WDC.Customers.Infrastructure.pdb
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Infrastructure/bin/Debug/net8.0/WDC.Customers.Data.dll
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Infrastructure/bin/Debug/net8.0/WDC.Customers.Data.pdb
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Infrastructure/obj/Debug/net8.0/WDC.Customers.Infrastructure.csproj.AssemblyReference.cache
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Infrastructure/obj/Debug/net8.0/WDC.Customers.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Infrastructure/obj/Debug/net8.0/WDC.Customers.Infrastructure.AssemblyInfoInputs.cache
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Infrastructure/obj/Debug/net8.0/WDC.Customers.Infrastructure.AssemblyInfo.cs
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Infrastructure/obj/Debug/net8.0/WDC.Customers.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Infrastructure/obj/Debug/net8.0/WDC.Cust.64FEB27F.Up2Date
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Infrastructure/obj/Debug/net8.0/WDC.Customers.Infrastructure.dll
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Infrastructure/obj/Debug/net8.0/refint/WDC.Customers.Infrastructure.dll
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Infrastructure/obj/Debug/net8.0/WDC.Customers.Infrastructure.pdb
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Infrastructure/obj/Debug/net8.0/WDC.Customers.Infrastructure.genruntimeconfig.cache
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Infrastructure/obj/Debug/net8.0/ref/WDC.Customers.Infrastructure.dll

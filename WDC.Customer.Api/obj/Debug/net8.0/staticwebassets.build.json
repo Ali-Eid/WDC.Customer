@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9+BNAEdBXc483EHglkZ3rIXF6Ae/oO2w/4dCuRp09wE=",
+  "Source": "WDC.Customers.Api",
+  "BasePath": "_content/WDC.Customers.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

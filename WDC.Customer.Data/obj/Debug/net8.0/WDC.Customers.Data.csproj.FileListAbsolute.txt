@@ -1,0 +1,12 @@
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Data/bin/Debug/net8.0/WDC.Customers.Data.deps.json
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Data/bin/Debug/net8.0/WDC.Customers.Data.dll
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Data/bin/Debug/net8.0/WDC.Customers.Data.pdb
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Data/obj/Debug/net8.0/WDC.Customers.Data.csproj.AssemblyReference.cache
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Data/obj/Debug/net8.0/WDC.Customers.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Data/obj/Debug/net8.0/WDC.Customers.Data.AssemblyInfoInputs.cache
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Data/obj/Debug/net8.0/WDC.Customers.Data.AssemblyInfo.cs
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Data/obj/Debug/net8.0/WDC.Customers.Data.csproj.CoreCompileInputs.cache
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Data/obj/Debug/net8.0/WDC.Customers.Data.dll
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Data/obj/Debug/net8.0/refint/WDC.Customers.Data.dll
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Data/obj/Debug/net8.0/WDC.Customers.Data.pdb
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Data/obj/Debug/net8.0/ref/WDC.Customers.Data.dll

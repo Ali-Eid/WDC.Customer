@@ -1,0 +1,17 @@
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Service.app.Service.app.Service/bin/Debug/net8.0/WDC.Customers.Service.deps.json
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Service.app.Service.app.Service/bin/Debug/net8.0/WDC.Customers.Service.dll
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Service.app.Service.app.Service/bin/Debug/net8.0/WDC.Customers.Service.pdb
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Service.app.Service.app.Service/bin/Debug/net8.0/WDC.Customers.Data.dll
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Service.app.Service.app.Service/bin/Debug/net8.0/WDC.Customers.Infrastructure.dll
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Service.app.Service.app.Service/bin/Debug/net8.0/WDC.Customers.Infrastructure.pdb
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Service.app.Service.app.Service/bin/Debug/net8.0/WDC.Customers.Data.pdb
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Service.app.Service.app.Service/obj/Debug/net8.0/WDC.Customers.Service.csproj.AssemblyReference.cache
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Service.app.Service.app.Service/obj/Debug/net8.0/WDC.Customers.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Service.app.Service.app.Service/obj/Debug/net8.0/WDC.Customers.Service.AssemblyInfoInputs.cache
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Service.app.Service.app.Service/obj/Debug/net8.0/WDC.Customers.Service.AssemblyInfo.cs
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Service.app.Service.app.Service/obj/Debug/net8.0/WDC.Customers.Service.csproj.CoreCompileInputs.cache
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Service.app.Service.app.Service/obj/Debug/net8.0/WDC.Cust.4CCF5440.Up2Date
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Service.app.Service.app.Service/obj/Debug/net8.0/WDC.Customers.Service.dll
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Service.app.Service.app.Service/obj/Debug/net8.0/refint/WDC.Customers.Service.dll
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Service.app.Service.app.Service/obj/Debug/net8.0/WDC.Customers.Service.pdb
+/Users/ali/Desktop/WDC/base-main/WDC.Customer.Service.app.Service.app.Service/obj/Debug/net8.0/ref/WDC.Customers.Service.dll
